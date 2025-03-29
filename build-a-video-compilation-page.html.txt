@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>   
+<body>
+<main>
+    <h1>Top 3 YouTube Video Ideas to Boost Your Content</h1>
+    <p>In today's competitive digital landscape, fresh and engaging content is key to standing out on YouTube. Whether you're just starting out or looking to reinvigorate your channel, having a well-thought-out video strategy can make all the difference. In this guide, we reveal our top 3 YouTube video ideas designed to boost your content, engage your audience, and drive channel growth. Each idea is carefully crafted to offer unique insights, practical tips, and creative inspiration—empowering you to elevate your content and capture viewers' attention like never before.</p>
+    <section>
+        <h2>Best Budget Wireless Microphones for Creators (2025) – Tested & Reviewed</h2>
+        <p>Introduction:
+For content creators on a budget, finding a wireless microphone that delivers clear, crisp audio can be a game-changer. In this video, we dive into the top affordable options available in 2025, testing each mic under real-world conditions. Whether you're recording podcasts, YouTube videos, or live streams, our detailed review will help you choose the right gear to boost your production quality without breaking the bank.
+
+</p>
+        <iframe
+         width="560"
+         height="315" 
+         src="https://www.youtube.com/embed/IoEX9cqYogI?si=puttiaim4QBY4noh" 
+         title="YouTube video player" 
+         frameborder="0" 
+         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+         allowfullscreen
+        ></iframe>
+    </section>  
+    <section>
+        <h2>How to Set Up a Professional YouTube Studio on a Budget</h2>
+        <p>Setting up a high-quality YouTube studio doesn't have to drain your savings. In this video, we walk you through building a professional-looking studio with affordable equipment and smart space-saving tips. From choosing the right lighting to selecting cost-effective audio gear, learn how to create a setup that rivals high-end studios—perfect for creators looking to enhance their video production on a budget.</p>
+        <iframe 
+        width="560" 
+        height="315" 
+        src="https://www.youtube.com/embed/EFPi_pJMK7g?si=X_SBJBita8OXll3F" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
+        ></iframe>
+    </section> 
+    <section>
+        <h2>Wireless Microphone Showdown: Indoor vs. Outdoor Performance Test</h2>
+        <p>Ever wondered how wireless microphones perform in different environments? In this video, we put three popular models to the test—comparing their performance indoors versus outdoors. Watch as we evaluate audio clarity, interference issues, and overall reliability in various settings. Whether you're filming in a studio or on location, this in-depth comparison will help you determine which wireless mic is best suited for your needs.</p>
+        <iframe 
+        width="560" 
+        height="315" 
+        src="https://www.youtube.com/embed/TRHJqGRBVIU?si=XlQqCTYuuO1RLH2C" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen></iframe>
+    </section>   
+</main> 
+</body>
+
+</html>
